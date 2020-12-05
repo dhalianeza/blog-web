@@ -8,6 +8,6 @@
 * Python
 * Flask
 * Heroku
- 
   ## Technologies Used
  Python3.6
+ ## Support and contact details
