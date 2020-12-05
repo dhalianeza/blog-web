@@ -5,8 +5,8 @@
  ## Description
  this application w
  ## Setup/Installation Requirements
-* This is a great place
-* to list setup instructions
+* Python
+* Flask
 * in a simple
 * easy-to-understand
 * format
