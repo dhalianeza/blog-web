@@ -7,7 +7,7 @@
  ## Setup/Installation Requirements
 * Python
 * Flask
-* in a simple
+* Heroku
 * easy-to-understand
 * format
   ## Technologies Used
