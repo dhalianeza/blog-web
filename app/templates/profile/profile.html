@@ -35,6 +35,7 @@
   
       {% if user == current_user %}
       <a class="btn btn-success" href="{{url_for('main.update_profile',uname=user.username)}}">Edit profile</a>
+      
       {% endif %}
     </div>
   
