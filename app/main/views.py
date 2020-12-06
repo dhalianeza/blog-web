@@ -124,3 +124,5 @@ def user_post(username):
     page = request.args.get('page',1,type = int)
     blogs = Blog.query.filter_by(user = user ).order_by(Blog.posted.desc()).paginate(page = page,per_page=4)
     return render_template('userpost.html',blogs=blogs,user=user)
+
+ 
